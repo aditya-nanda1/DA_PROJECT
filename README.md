@@ -62,5 +62,11 @@ Trained multiple models on preprocessed data:
 - **Dashboards** provided clear insights into Amazon book sales trends.  
 - **Python visualizations** revealed key correlations and distributions.  
 - **Machine learning models** successfully classified sales-related patterns, with SVM achieving the best results.  
-- This framework can be extended to other **e-commerce datasets** for strategic decision-making.  
+- This framework can be extended to other **e-commerce datasets** for strategic decision-making.
+
+## 🚀 How to Run the Project  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/amazon-books-analysis.git
+   cd amazon-books-analysis
 

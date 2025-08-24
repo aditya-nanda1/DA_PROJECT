@@ -67,6 +67,6 @@ Trained multiple models on preprocessed data:
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/amazon-books-analysis.git
+   git clone https://github.com/aditya-nanda1/amazon-books-analysis.git
    cd amazon-books-analysis
 
